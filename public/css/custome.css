@@ -1,0 +1,17 @@
+
+.font-page {
+    max-width: 500px;
+}
+dl, ol, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.one, .two,.three,.four,.five{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 6px;
+    border-radius: 45%;
+}
